@@ -1,9 +1,6 @@
 # Hi, I'm Vishnu D A 👋
 
 ### Biomedical Engineer
-
-📍 Chennai, Tamil Nadu, India
-
 I'm a Biomedical Engineer passionate about applying engineering, AI, and emerging technologies to solve real-world healthcare challenges. I enjoy research, data analysis, and building practical solutions to biomedical problems, from clinical equipment troubleshooting to machine learning applications.
 
 ---
