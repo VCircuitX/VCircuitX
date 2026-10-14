@@ -84,7 +84,3 @@ Chennai Institute of Technology | 2021–2025
 
 ---
 
-## 📫 Connect With Me
-
-- **GitHub:** [VCircuitX](https://github.com/VCircuitX)
-
