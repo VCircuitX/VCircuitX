@@ -21,7 +21,7 @@ I'm a Biomedical Engineer passionate about applying engineering, AI, and emergin
 💼 Experience
 
 Student Intern — EdifyTechnoSolutions 
-*June 2024 – July 2024 | Chennai
+June 2024 – July 2024 | Chennai
 
 Researched and implemented algorithms for AI/ML applications, troubleshot issues and optimised code efficiency using Python, TensorFlow and scikit-learn.
 
@@ -40,7 +40,7 @@ August 2022 | Chennai
 
 Observed clinical protocols involving MRI, CT, ventilators and X-ray systems.
 
-**Student Intern — Atheenapandian Organization**  
+Student Intern — Atheenapandian Organization 
 *March 2022 – May 2022*
 
 Supported preventive maintenance and regulatory testing of clinical equipment.
@@ -49,7 +49,7 @@ Supported preventive maintenance and regulatory testing of clinical equipment.
 
 🎓 Education
 
-**Bachelor of Engineering — Biomedical / Medical Engineering**  
+Bachelor of Engineering — Biomedical / Medical Engineering 
 Chennai Institute of Technology | 2021–2025
 
 ---
@@ -81,8 +81,4 @@ Other Skills
 
 - English — Professional working proficiency
 - French — Elementary proficiency
-
----
-
-- **GitHub:** [VCircuitX](https://github.com/VCircuitX)
 
